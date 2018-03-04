@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  productApiUrl: './api/products/products.json'
 };

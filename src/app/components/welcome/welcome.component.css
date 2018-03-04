@@ -1,0 +1,54 @@
+.bd-masthead[_ngcontent-c1] {
+	position: relative;
+	padding: 3rem 15px 2rem;
+	color: #cdbfe3;
+	text-align: center;
+	background-image: linear-gradient(135deg, #271b38, #563d7c, #7952b3);
+}
+
+.bd-masthead[_ngcontent-c1] .bd-booticon[_ngcontent-c1] {
+	margin: 0 auto 2rem;
+	color: #cdbfe3;
+	border-color: #cdbfe3;
+}
+
+.bd-booticon.outline[_ngcontent-c1] {
+	background-color: transparent;
+	border: 1px solid #cdbfe3;
+}
+
+.bd-booticon[_ngcontent-c1] {
+	display: block;
+	width: 9rem;
+	height: 9rem;
+	font-size: 6.5rem;
+	line-height: 9rem;
+	color: #fff;
+	text-align: center;
+	cursor: default;
+	background-color: #563d7c;
+	border-radius: 15%;
+}
+
+.bd-masthead .version {
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+}
+
+@media (min-width: 992px) {
+	.bd-masthead[_ngcontent-c1] .lead[_ngcontent-c1] {
+		width: 85%;
+		font-size: 2rem;
+	}
+}
+@media (min-width: 576px) {
+	.bd-masthead[_ngcontent-c1] {
+		padding-top: 8rem;
+		padding-bottom: 2rem;
+	}
+}
+@media (min-width: 768px) {
+	.bd-masthead[_ngcontent-c1] {
+		padding-bottom: 4rem;
+	}
+}

@@ -1,0 +1,10 @@
+.img-default {
+	width: 30px;
+	margin: 2px;
+}
+thead {
+	color: #157EFB;
+}
+.table td {
+    line-height: 40px;
+}
